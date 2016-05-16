@@ -80,6 +80,10 @@ TYPOGRIFY = True
 
 # Liquid Tags for Blogging with IPython Notebooks
 
+CODE_DIR = 'downloads/code'
+NOTEBOOK_DIR = 'downloads/notebooks'
+
+
 # The theme file should be updated so that the base header contains the line:
 #
 #  {% if EXTRA_HEADER %}
