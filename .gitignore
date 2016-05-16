@@ -1,3 +1,18 @@
+*~
+._*
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# Pelican
+output
+_build
+_nb_header.html
+
+# pyenv
+.python-version
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
