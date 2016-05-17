@@ -5,4 +5,4 @@ disqus_identifier: quick-and-dirty-euler-method
 comments: true
 slug: quick-and-dirty-euler-method
 
-{% notebook simple-euler.ipynb cells[2:] %}
+{% notebook simple-euler.ipynb cells[2:-1] %}
